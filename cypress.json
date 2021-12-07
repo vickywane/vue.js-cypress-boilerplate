@@ -1,0 +1,8 @@
+{
+  "projectId": "w3wgo1",
+  "baseUrl": "http://localhost:8080",
+  "component": {
+    "componentFolder": "src",
+    "testFiles": "**/*.spec.*s"
+  }  
+}
